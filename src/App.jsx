@@ -30,7 +30,7 @@ function App() {
         <Navbar />
 
         {/* PAGES */}
-        <main className="flex-grow">
+        <main className="grow">
 
           <Routes>
             <Route path="/" element={<Home />} />

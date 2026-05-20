@@ -5,7 +5,7 @@ const Contact = () => {
     <div className="bg-gray-50">
 
       {/* ================= HERO ================= */}
-      <section className="bg-gradient-to-r from-black to-gray-800 text-white py-20 px-6 text-center">
+      <section className="bg-linear-to-r from-black to-gray-800 text-white py-20 px-6 text-center">
         <h1 className="text-5xl font-bold mb-4">Contact Us</h1>
         <p className="text-gray-300 max-w-2xl mx-auto">
           Have a question or project in mind? We’re here to help you grow your

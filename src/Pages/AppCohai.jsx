@@ -1,7 +1,7 @@
 const AppCohai = () => {
   return (
     <div className="container mx-auto py-12 px-4">
-      <div className="bg-gradient-to-r from-purple-600 to-indigo-600 text-white p-10 rounded-2xl shadow-xl">
+      <div className="bg-linear-to-r from-purple-600 to-indigo-600 text-white p-10 rounded-2xl shadow-xl">
         <h2 className="text-4xl font-bold">App Cohai Dashboard</h2>
         <p className="mt-2 opacity-90">Manage your integrated applications and data here.</p>
       </div>
