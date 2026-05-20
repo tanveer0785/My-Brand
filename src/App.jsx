@@ -1,10 +1,9 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
 
-import Home from "./pages/Home";
-import AppCohai from "./pages/AppCohai";
+
+
+
 
 
 import Blogs from "./Pages/Blogs";
@@ -12,6 +11,13 @@ import Blogs from "./Pages/Blogs";
 import Contact from "./Pages/Contact";
 import Projects from "./Pages/Project";
 import About from "./Pages/About";
+
+
+
+import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
+import Home from "./Pages/Home";
+import AppCohai from "./pages/AppCohai";
 
 
 function App() {
